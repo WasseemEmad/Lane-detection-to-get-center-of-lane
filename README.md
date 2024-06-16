@@ -22,7 +22,10 @@ Based on the calculated lane center, the steering angle is computed to keep the 
 The code includes visualization capabilities to draw the detected lane center on the image, providing a visual representation of the lane detection and steering guidance.
 
 # Dependencies
-OpenCV: For image processing and computer vision tasks.
-NumPy: For numerical operations and array manipulation.
-Matplotlib: For visualization of the processed images and detected lanes.
-
+- **OpenCV:** For image processing and computer vision tasks.
+- **NumPy:** For numerical operations and array manipulation.
+- **Matplotlib:** For visualization of the processed images and detected lanes.
+  
+# Results:
+![image](https://github.com/WasseemEmad/Lane-detection-to-get-center-of-lane/assets/159874318/9b5ed4b7-4e1c-4884-8529-b57f4606b70b)
+![image](https://github.com/WasseemEmad/Lane-detection-to-get-center-of-lane/assets/159874318/4b61d5ca-1bfe-44b4-b0f5-a97eabd35f0c)
