@@ -1,2 +1,2 @@
 # Lane-detection-to-get-center-of-lane
-This repository contains code for detecting lanes and calculating steering angles for autonomous vehicles.
+This repository contains code for detecting lanes and calculating steering angles for autonomous vehicles. The code utilizes computer vision techniques to process images, identify lane markers, and determine the center of the lane. It is designed to assist in the development of self-driving car technology by providing accurate lane detection and steering angle calculation.
